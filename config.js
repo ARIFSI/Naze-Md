@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281517621088']
-global.ownernomer = "6281517621088"
-global.premium = ['6281517621088']
-global.packname = 'NoxyBotz'
-global.author = 'By '
+global.owner = ['6283137354143']
+global.ownernomer = "6283137354143"
+global.premium = ['6283137354143']
+global.packname = 'Wisnu-Md'
+global.author = 'By Wisnu-Md'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -66,8 +66,8 @@ global.mygit = 'https://github.com/EricGanzz'
 global.myyt = 'https://youtube.com/channel/UCuo4SSYAIVE73sQvgsQd5gQ'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
 global.mygc = "https://chat.whatsapp.com/E4mPMyGkTmpCdlJiVDoLp8"
-global.botname = 'NoxyBotz-MD'
-global.akulaku = 'Bot By '
+global.botname = 'Wisnu-Md'
+global.akulaku = 'Bot By Wisnu-Md'
 global.ytname = 'YT NoxyBotz'
 
 
